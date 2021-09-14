@@ -1,0 +1,4 @@
+ISBN of the book with longest checkout time: 99-9263-544-1
+Total number of books checked out : 3
+Person ID of person with the largest checkouts now: 3
+Person ID of person has most checkouts: 3

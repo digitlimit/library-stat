@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<records>
+    <record>
+        <person id="3" />
+        <isbn>99-9263-544-7</isbn>
+        <timestamp>2021-01-10T00:05:00+00:00</timestamp>
+        <action type="check-out" />
+    </record>
+    <record>
+        <person id="3" />
+        <isbn>99-9263-544-7</isbn>
+        <timestamp>2021-01-15T04:05:00+00:00</timestamp>
+        <action type="check-in" />
+    </record>
+    <record>
+        <person id="4" />
+        <isbn>99-9263-544-7</isbn>
+        <timestamp>2021-01-16T08:05:00+00:00</timestamp>
+        <action type="check-out" />
+    </record>
+    <record>
+        <person id="4" />
+        <isbn>99-9263-544-7</isbn>
+        <timestamp>2021-01-18T02:05:00+00:00</timestamp>
+        <action type="check-in" />
+    </record>
+    <record>
+        <person id="3" />
+        <isbn>99-9263-544-7</isbn>
+        <timestamp>2021-01-19T00:05:00+00:00</timestamp>
+        <action type="check-out" />
+    </record>
+</records>
